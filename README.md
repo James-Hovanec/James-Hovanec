@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @James-Hovanec
-- 🌱 I’m currently learning python, sql and R
+- 🌱 I’m currently learning python, sql and R, HTML, CSS, Java, 
 - 💞️ I’m looking to collaborate on Data Analyst projects 
 - 📫 How to reach me james.hovanec@gmail.com
 <!---
